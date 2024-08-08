@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525541575702",
+    "project_id": "reglogfirebase19",
+    "storage_bucket": "reglogfirebase19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525541575702:android:7da5cc76f880bbb256f937",
+        "android_client_info": {
+          "package_name": "com.example.logregfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cQbh-CexIbvsxt_l1mLoQ74clXgVyL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
